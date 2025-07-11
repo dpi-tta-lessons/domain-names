@@ -1,12 +1,15 @@
 # Choosing a Domain Name
 
-<!-- TODO: swap out example -->
-By now, you've built and deployed your own personal website — something that might look [like this](https://heratyian.github.io).
+Choose and register a domain name for your personal website or final project using a domain registrar.
+
+## Why This Matters
+
+Every professional website needs a memorable, easy-to-share address. In this lesson, you’ll explore how domain names work, how much they cost, and how to find one that fits your project — so you can publish your site at a real URL like `https://dev.to`.
+
+## Anatomy of a URL
 
 Take a look at the URL of your site. For example: `https://dev.to/`.  
 The part of the URL between `https://` and the first `/` is called the **domain name**.
-
-## Anatomy of a URL
 
 ![Anatomy of a URL](assets/anatomy-url.png)  
 (from [MDN: What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL))
@@ -58,13 +61,34 @@ To explore available domain names, try these tools:
 
 Try to come up with 2–3 options you like.
 
-### Where to Buy
+## Where to Register
 
-Once you've got a few candidates, check their price and availability at:
+Once you find a name you like, check prices at:
 
 - [**porkbun.com**](https://porkbun.com) ← *our top recommendation for price + simplicity*
 - [namecheap.com](https://www.namecheap.com)
 - [gandi.net](https://www.gandi.net)
 - [cloudflare](https://www.cloudflare.com/products/registrar/)
 
-These are all reputable **domain registrars** — companies that sell and manage domain names.
+These are domain **registrars** — companies that sell and manage domains.
+
+## Practice Task
+
+1. Search for a domain name that matches your project.
+2. Pick at least 2 that are available.
+3. Check the price on [porkbun.com](https://porkbun.com).
+4. Bookmark your favorite!
+
+## Wrap-Up
+
+By the end of this lesson, you should:
+
+- ✅ Understand what a domain name is  
+- ✅ Know what parts make up a domain (TLD, primary, subdomain)  
+- ✅ Be able to find and register your own
+
+## Want to Go Further?
+
+- [What is a URL? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+- [The 20 Most Expensive Domain Names](https://www.godaddy.com/garage/the-top-20-most-expensive-domain-names/)
+- [How domain registration works](https://www.icann.org/resources/pages/registrars-0d-2012-02-25-en)
