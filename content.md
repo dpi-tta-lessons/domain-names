@@ -1,5 +1,6 @@
 # Choosing a Domain Name
 
+<!-- TODO: swap out example -->
 By now, you've built and deployed your own personal website — something that might look [like this](https://heratyian.github.io).
 
 Take a look at the URL of your site. For example: `https://dev.to/`.  
