@@ -16,7 +16,7 @@ The part of the URL between `https://` and the first `/` is called the **domain 
 
 A domain name is made up of several parts:
 
-### 🔹 Top-Level Domain (TLD)
+### Top-Level Domain (TLD)
 
 This is the part at the end of the domain.
 
@@ -24,7 +24,7 @@ This is the part at the end of the domain.
 - `en.wikipedia.org` → TLD: `.org`
 - `dev.to` → TLD: `.to`
 
-### 🔹 Primary Domain
+### Primary Domain
 
 This comes immediately before the TLD.
 
@@ -32,7 +32,7 @@ This comes immediately before the TLD.
 - `en.wikipedia.org` → Primary domain: `wikipedia`
 - `dev.to` → Primary domain: `dev`
 
-### 🔹 Subdomain
+### Subdomain
 
 Anything before the primary domain is considered a subdomain.
 
@@ -44,7 +44,7 @@ Anything before the primary domain is considered a subdomain.
 
 When you publish your personal website or final project, you get to decide what domain it lives at.
 
-### 💸 How Much Does a Domain Cost?
+### How Much Does a Domain Cost?
 
 - A typical `.com` domain costs around **$10/year**.
 - Some TLDs cost more — for example, `.ai` domains are around **$70/year**.
