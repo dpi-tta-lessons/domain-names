@@ -1,39 +1,69 @@
-# Domain Names 🌐
+# Choosing a Domain Name
 
-You have already built and deployed your own personal website — something that looks [like this](https://rag.hu/).
+By now, you've built and deployed your own personal website — something that might look [like this](https://heratyian.github.io).
 
-Notice the URL of this site above— `https://rag.hu `.  ` rag.hu ` is a domain name. In a URL, the part that comes after the "http://" or "https://" and before the path is called the domain name:
+Take a look at the URL of your site. For example: `https://dev.to/`.  
+The part of the URL between `https://` and the first `/` is called the **domain name**.
 
-![Anatomy of a URL](assets/anatomy-url.png)
-(from [MDN's What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL))
+## Anatomy of a URL
 
+![Anatomy of a URL](assets/anatomy-url.png)  
+(from [MDN: What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL))
 
-A domain name is usually comprised of:
+A domain name is made up of several parts:
 
-- A **top-level domain (TLD)**.
-  - For `www.example.com`, the TLD is "com".
-  - For `en.wikipedia.org`, the TLD is "org".
-  - For `rag.hu`, the TLD is "hu".
-    
-- A **primary domain**, immediately to the left of the TLD. 
-  - For `www.example.com`, the primary domain is "example".
-  - For `en.wikipedia.org`, the primary domain is "wikipedia".
-  - For `rag.hu`, the primary domain is "rag".
+### 🔹 Top-Level Domain (TLD)
 
-- **Subdomains**, to the left of the primary domain.
-  - For `www.example.com`, the subdomain is "www".
-  - For `en.wikipedia.org`, the subdomain is "en".
-  - For `rag.hu`, there is no subdomain. (When there's no subdomain, it's known as the **apex domain**.)
+This is the part at the end of the domain.
 
-When you deploy your personal website or final project, what domain do you want it to live at?
+- `www.example.com` → TLD: `.com`
+- `en.wikipedia.org` → TLD: `.org`
+- `dev.to` → TLD: `.to`
 
-A standard `.com` domain name costs approximately $10/year. (If the name you want is already taken, however, then you first have to buy it from the current owner, which could cost [anything](https://www.godaddy.com/garage/the-top-20-most-expensive-domain-names/). **Let’s avoid that for now and only look for domain names which have not yet been registered by anyone**.)
+### 🔹 Primary Domain
 
-Domains from other TLDs can cost more or less — for example, `.ai` domains cost approximately $70/year.
+This comes immediately before the TLD.
 
-If you can’t find a `.com` that you like, `.dev` is a relatively new TLD (and therefore lots of names are still unregistered) that works well for technical folks’ personal websites and projects.
+- `www.example.com` → Primary domain: `example`
+- `en.wikipedia.org` → Primary domain: `wikipedia`
+- `dev.to` → Primary domain: `dev`
 
-There are many tools out there to come up with ideas for domain names and to check domain availability — try [Instant Domain Search](https://instantdomainsearch.com/) or [domainr](https://domainr.com/). Try to find two or three candidates that you like.
+### 🔹 Subdomain
 
-But, when you find a name you like, go to [porkbun.com](https://porkbun.com/) and check how much it costs. Porkbun is my preferred **domain registrar**, and typically has the lowest prices. But you can also check [namecheap.com](https://www.namecheap.com/) or [gandi.net](https://www.gandi.net/), two other domain registrars, if you can’t find the name that you want on Porkbun.
+Anything before the primary domain is considered a subdomain.
 
+- `www.example.com` → Subdomain: `www`
+- `en.wikipedia.org` → Subdomain: `en`
+- `dev.to` → No subdomain — this is called an **apex domain** (just the root domain).
+
+## What Domain Do You Want?
+
+When you publish your personal website or final project, you get to decide what domain it lives at.
+
+### 💸 How Much Does a Domain Cost?
+
+- A typical `.com` domain costs around **$10/year**.
+- Some TLDs cost more — for example, `.ai` domains are around **$70/year**.
+- Newer TLDs like `.dev` can be a good alternative, especially for personal tech projects, and often have more availability.
+
+> 💡 If a domain is already owned, buying it from the current owner can be expensive — sometimes thousands of dollars. For now, focus on names that are still available for registration.
+
+### Finding Domain Ideas
+
+To explore available domain names, try these tools:
+
+- [Instant Domain Search](https://instantdomainsearch.com)
+- [Domainr](https://domainr.com)
+
+Try to come up with 2–3 options you like.
+
+### Where to Buy
+
+Once you've got a few candidates, check their price and availability at:
+
+- [**porkbun.com**](https://porkbun.com) ← *our top recommendation for price + simplicity*
+- [namecheap.com](https://www.namecheap.com)
+- [gandi.net](https://www.gandi.net)
+- [cloudflare](https://www.cloudflare.com/products/registrar/)
+
+These are all reputable **domain registrars** — companies that sell and manage domain names.
